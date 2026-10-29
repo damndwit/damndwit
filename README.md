@@ -14,6 +14,12 @@ These days I'm putting more of that work on GitHub: projects that cover everythi
 - **Systems & support:** Windows, PowerShell, troubleshooting, monitoring, and automation
 - **Business & analytics:** Digital advertising, campaign reporting, performance analysis, and data visualization
 
+### Latest project
+
+**[LocalBiz AI Support Assistant](https://github.com/damndwit/localbiz-ai-support-chatbot)** — a configurable Python customer-support chatbot using Streamlit and TF-IDF similarity matching. Built for a fictional café, with editable FAQs, chat history, quick questions, and fallback replies.
+
+**[Try the live demo](https://localbiz-support-demo-dwit.streamlit.app/)** · [View source code](https://github.com/damndwit/localbiz-ai-support-chatbot)
+
 ### Selected project lineup
 
 I'm building out six practical projects. Each will have its own code, setup guide, screenshots, and a short explanation of what I built. **These are planned projects, not completed work.**
